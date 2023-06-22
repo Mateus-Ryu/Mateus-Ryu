@@ -4,14 +4,14 @@ I'm **Mateus Ryu Yamaguchi**, an enthusiastic **fullstack developer** with a bac
 
 <div style="display: flex;flex-direction: row;">
   <img 
-    height="200em" 
+    height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=MateusRyu&theme=prussian&hide_border=true&include_all_commits=true&count_private=false"
   />
-  <img height="200em" src="https://github-contributor-stats.vercel.app/api?username=MateusRyu&limit=5&theme=prussian&combine_all_yearly_contributions=true"/>
+  <img height="180em" src="https://github-contributor-stats.vercel.app/api?username=MateusRyu&limit=5&theme=prussian&combine_all_yearly_contributions=true"/>
 </div>
 <div style="display: flex;flex-direction: row;">
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusRyu&theme=prussian&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRyu&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusRyu&theme=prussian&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRyu&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
 ## 🌐 Socials
