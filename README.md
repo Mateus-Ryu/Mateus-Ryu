@@ -3,8 +3,8 @@
 Hi! I'm **Mateus Ryu Yamaguchi**, an enthusiastic **fullstack developer** with a background in [Interdisciplinary Sea Science and Technology](https://www.unifesp.br/campus/san7/graduacao/cursos/bacharelado-interdisciplinar-em-ciencia-e-tecnologia-do-mar), graduated from the prestigious [Federal University of São Paulo (**UNIFESP**)](https://www.unifesp.br/) in 2023. In addition to diving into **cybersecurity** and **web development** in detail, I also study a few things about creating simple desktop and mobile applications, as well about creating games (**game development** and **game design**).
 
 <div style="display: flex;flex-direction: row;">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusRyu&theme=prussian&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRyu&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+  <img height="180em" alt="Ryu's Streak Stats on Github" src="https://github-readme-streak-stats.herokuapp.com/?user=MateusRyu&theme=prussian&hide_border=true"/>
+  <img height="180em" alt="Ryu core languages in Github repositories " src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRyu&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
 </div>
 
 ---
